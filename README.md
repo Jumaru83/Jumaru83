@@ -24,11 +24,3 @@ I am a developer exploring the world of Python and automation.
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
   <img src="https://img.shields.io/badge/GitHub_Desktop-802598?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop"/>
 </p>
-
----
-
-### 📊 Οι γλώσσες που χρησιμοποιώ / Top Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jumaru83&layout=compact&theme=dark" alt="Top Languages" />
-</p>
